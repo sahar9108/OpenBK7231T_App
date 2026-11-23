@@ -66,6 +66,8 @@
 #define ENABLE_OBK_BERRY						1
 #define ENABLE_DRIVER_TUYAMCU					1
 #define NO_CHIP_TEMPERATURE						1
+#define ENABLE_BL_SHARED 1
+#define ENABLE_DRIVER_BL0937 1
 #endif
 
 #if PLATFORM_XR806
